@@ -68,7 +68,8 @@ main {
 }
 
 u {
-  text-decoration: var(--p2) underline;
+  text-decoration: underline;
+  text-decoration-color: #44ffa1;
 }
 
 article {
